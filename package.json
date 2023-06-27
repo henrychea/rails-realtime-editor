@@ -2,7 +2,7 @@
   "name": "app",
   "private": "true",
   "dependencies": {
-    "esbuild": "^0.18.9",
+    "esbuild": "^0.18.10",
     "sass": "^1.63.6"
   },
   "scripts": {
